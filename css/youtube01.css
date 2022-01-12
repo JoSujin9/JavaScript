@@ -5,7 +5,6 @@ a {
     text-decoration: none;
 }
 
-
 .container{
     width:1920px;
     float:left;
@@ -20,6 +19,5 @@ a {
     background:#ccc;
     float:left;
     margin:0 auto;
-    line-hight:30px;
 
 }
