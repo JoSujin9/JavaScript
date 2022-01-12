@@ -7,7 +7,9 @@ a {
 .container{
     width:1200px;
     float:left;
-    display:bolck;
+    display:flex;
+    justify-content:center;
+    align-item:center;
 }
 .item{
     width:100px;
