@@ -4,11 +4,8 @@ ul,li{
 a {
     text-decoration: none;
 }
-.container{
-    justify-content:center;
-    align-item:center
-}
-.container .item{
+
+.item{
     width:100px;
     height:30px;
     background:#ccc;
