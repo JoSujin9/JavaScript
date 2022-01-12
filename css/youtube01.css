@@ -4,6 +4,10 @@ ul,li{
 a {
     text-decoration: none;
 }
+div{
+     text-align:center;
+    line-hight:30px;}
+
 .container{
     width:1200px;
     float:left;
@@ -17,6 +21,5 @@ a {
     background:#ccc;
     float:left;
     margin:0 auto;
-    text-align:center;
-    line-hight:30px;
+
 }
