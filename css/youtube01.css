@@ -6,7 +6,7 @@ a {
 }
 
 .container{
-    width:1920px;
+    width:1200px;
     float:left;
     display:flex;
     justify-content:space-between;
