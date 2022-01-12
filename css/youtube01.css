@@ -9,10 +9,11 @@ div{
     line-hight:30px;}
 
 .container{
-    width:1200px;
+    width:1920px;
     float:left;
     display:flex;
     justify-content:space-between;
+    
 
 }
 .item{
