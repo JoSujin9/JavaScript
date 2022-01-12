@@ -8,8 +8,8 @@ a {
     width:1200px;
     float:left;
     display:flex;
-    justify-content:center;
-    align-item:center;
+    justify-content:space-between;
+
 }
 .item{
     width:100px;
