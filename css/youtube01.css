@@ -17,4 +17,6 @@ a {
     background:#ccc;
     float:left;
     margin:0 auto;
+    text-align:center;
+    line-hight:30px;
 }
