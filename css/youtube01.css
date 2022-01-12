@@ -5,9 +5,9 @@ a {
     text-decoration: none;
 }
 .container{
-   
     width:100%;
     float:left;
+    display:bolck;
 }
 .container > item{
     width:100px;
