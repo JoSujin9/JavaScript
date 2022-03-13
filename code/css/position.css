@@ -1,0 +1,25 @@
+div{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    background: red;
+
+}
+
+.container{
+    background: yellow;
+    left: 20px;
+    top: 20px;
+    position: relative;
+
+}
+
+.box{
+    left: 20px;
+    top: 20px;
+    position: sticky;
+    /* fixed:윈도우(웹페이지)에서 움직이는
+    absolute:자기와 제일 가까이 있는 부모상속
+    relative:새로 속성 잡는 */
+    background: blue;
+}
