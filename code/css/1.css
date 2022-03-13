@@ -1,0 +1,16 @@
+
+.red{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    /* 컨텐츠 안에 들어가는것 */
+    padding-top: 100px;
+    padding-right: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* a[href$="naver.com"]{
+    color: purple; */
+}
+/* $=naver.com가 들어간 모든것에 속성값 지정 */
