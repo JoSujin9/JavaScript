@@ -1,0 +1,18 @@
+div, span{
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+    background: pink;
+}
+
+div{
+    background: red; 
+    display: inline-block;
+    /* 한줄에 여러개가 진열 될 수 있는 */
+    /* 글자의 숫자만큼 지어진다 inline 물건 */
+}
+
+span{
+    background: blue; 
+    display: block;
+}
