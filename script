@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+
+
+<script>
+"use strict";
+
+let admin, name;
+name = "john";
+admin = name;
+//alert(admin);
+
+let ourPlantName = "Earth";
+//설명을 곁들어주는게 좋다
+
+let currentUserName = "john";
+
+
+
+
+
+
+</script>
