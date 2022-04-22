@@ -1,21 +1,23 @@
 <!DOCTYPE html>
-
-
-
 <script>
 "use strict";
 
 let admin, name;
+//변수 두 개를 동시에 선언 가능
 name = "john";
 admin = name;
 //alert(admin);
+
 
 let ourPlantName = "Earth";
 //설명을 곁들어주는게 좋다
 
 let currentUserName = "john";
+//현재 접속 중인 사용자(user)의 이름(name)을 저장하는 변수를 만드는 법
 
-
+const BIRTHDAY = '18.04.1982';
+const age = someCode(BIRTHDAY);
+//age는 덜 상수
 
 
 
